@@ -1,0 +1,1785 @@
+[2019-Mar-19 09:11] 192.168.1.30 GET http /? 499 UNKNOWN 
+REQUEST Body: null
+RESPONSE: {"message": "Malformed RESTful or HTTP or Protocol Request", "status_code": 499}
+[2019-Mar-19 09:11] 192.168.1.30 GET http /favicon.ico? 499 UNKNOWN 
+REQUEST Body: null
+RESPONSE: {"message": "Malformed RESTful or HTTP or Protocol Request", "status_code": 499}
+[2019-Mar-19 09:12] 192.168.1.30 GET http /dashboard/overview? 302 FOUND 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 GET http /dashboard/login? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 GET http /dashboard/static/css/custom.css? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 GET http /dashboard/static/img/header.png? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 GET http /dashboard/static/js/custom.js? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 GET http /dashboard/static/js/app.js? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 GET http /dashboard/static/js/services/endpoint.js? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 GET http /dashboard/static/js/angular-datatables.js? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 GET http /dashboard/static/js/services/form.js? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 GET http /dashboard/static/js/services/info.js? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 GET http /dashboard/static/js/services/pagination.js? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 GET http /dashboard/static/js/services/plotly.js? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 GET http /dashboard/static/js/services/menu.js? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 GET http /dashboard/static/js/controllers/apiPerformance.js? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 GET http /dashboard/static/js/controllers/configuration.js? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 GET http /dashboard/static/js/controllers/customGraph.js? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 GET http /dashboard/static/js/controllers/dailyUtilization.js? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 GET http /dashboard/static/js/controllers/endpointGroupedProfiler.js? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 GET http /dashboard/static/js/controllers/endpointHourlyLoad.js? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 GET http /dashboard/static/js/controllers/endpointOutlier.js? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 GET http /dashboard/static/js/controllers/endpointProfiler.js? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 GET http /dashboard/static/js/controllers/endpointUsers.js? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 GET http /dashboard/static/js/controllers/endpointVersion.js? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 GET http /dashboard/static/js/controllers/endpointVersionIP.js? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 GET http /dashboard/static/js/controllers/hourlyLoad.js? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 GET http /dashboard/static/js/controllers/monitorLevel.js? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 GET http /dashboard/static/js/controllers/endpointVersionUser.js? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 GET http /dashboard/static/js/controllers/multiVersion.js? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 GET http /dashboard/static/js/controllers/overview.js? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 GET http /dashboard/static/js/controllers/util.js? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 GET http /dashboard/static/js/directives.js? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 GET http /dashboard/static/js/filters.js? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 GET http /dashboard/static/pages/overview.html? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 GET http /dashboard/static/img/favicon.ico? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 POST http /dashboard/login? 302 FOUND 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 GET http /dashboard/? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 GET http /dashboard/static/elements/menu.html? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 GET http /dashboard/api/custom_graphs? 200 OK 
+REQUEST Body: null
+RESPONSE: []
+[2019-Mar-19 09:12] 192.168.1.30 GET http /dashboard/api/overview? 200 OK 
+REQUEST Body: null
+RESPONSE: [{"color": "rgb(96, 64, 191)", "hits-overall": 0, "hits-today": 0, "hits-week": 0, "id": 1, "last-accessed": null, "median-overall": 0, "median-today": 0, "median-week": 0, "monitor": 1, "name": "auth1.detection"}, {"color": "rgb(86, 45, 134)", "hits-overall": 0, "hits-today": 0, "hits-week": 0, "id": 2, "last-accessed": null, "median-overall": 0, "median-today": 0, "median-week": 0, "monitor": 1, "name": "auth2.detection"}, {"color": "rgb(172, 163, 83)", "hits-overall": 0, "hits-today": 0, "hits-week": 0, "id": 3, "last-accessed": null, "median-overall": 0, "median-today": 0, "median-week": 0, "monitor": 1, "name": "auth3.detection"}, {"color": "rgb(58, 86, 120)", "hits-overall": 0, "hits-today": 0, "hits-week": 0, "id": 4, "last-accessed": null, "median-overall": 0, "median-today": 0, "median-week": 0, "monitor": 1, "name": "auth1.get_bounding_box"}, {"color": "rgb(224, 152, 108)", "hits-overall": 0, "hits-today": 0, "hits-week": 0, "id": 5, "last-accessed": null, "median-overall": 0, "median-today": 0, "median-week": 0, "monitor": 1, "name": "auth2.get_bounding_box"}, {"color": "rgb(70, 64, 191)", "hits-overall": 0, "hits-today": 0, "hits-week": 0, "id": 6, "last-accessed": null, "median-overall": 0, "median-today": 0, "median-week": 0, "monitor": 1, "name": "auth3.get_bounding_box"}, {"color": "rgb(31, 43, 147)", "hits-overall": 0, "hits-today": 0, "hits-week": 0, "id": 7, "last-accessed": null, "median-overall": 0, "median-today": 0, "median-week": 0, "monitor": 1, "name": "auth1.disconnect"}, {"color": "rgb(64, 136, 191)", "hits-overall": 0, "hits-today": 0, "hits-week": 0, "id": 8, "last-accessed": null, "median-overall": 0, "median-today": 0, "median-week": 0, "monitor": 1, "name": "auth2.disconnect"}, {"color": "rgb(128, 147, 31)", "hits-overall": 0, "hits-today": 0, "hits-week": 0, "id": 9, "last-accessed": null, "median-overall": 0, "median-today": 0, "median-week": 0, "monitor": 1, "name": "auth3.disconnect"}, {"color": "rgb(92, 45, 210)", "hits-overall": 0, "hits-today": 0, "hits-week": 0, "id": 10, "last-accessed": null, "median-overall": 0, "median-today": 0, "median-week": 0, "monitor": 1, "name": "auth1.change_parameters"}, {"color": "rgb(83, 172, 157)", "hits-overall": 0, "hits-today": 0, "hits-week": 0, "id": 11, "last-accessed": null, "median-overall": 0, "median-today": 0, "median-week": 0, "monitor": 1, "name": "auth2.change_parameters"}, {"color": "rgb(147, 111, 31)", "hits-overall": 0, "hits-today": 0, "hits-week": 0, "id": 12, "last-accessed": null, "median-overall": 0, "median-today": 0, "median-week": 0, "monitor": 1, "name": "auth3.change_parameters"}]
+[2019-Mar-19 09:12] 192.168.1.30 GET http /dashboard/static/elements/monitorLevel.html? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 POST http /dashboard/api/set_rule? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 POST http /dashboard/api/set_rule? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 POST http /dashboard/api/set_rule? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 POST http /dashboard/api/set_rule? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 POST http /dashboard/api/set_rule? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 POST http /dashboard/api/set_rule? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 POST http /dashboard/api/set_rule? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 POST http /dashboard/api/set_rule? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 POST http /dashboard/api/set_rule? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 POST http /dashboard/api/set_rule? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:12] 192.168.1.30 POST http /dashboard/api/set_rule? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:13] 192.168.1.30 GET http /dashboard/static/pages/plotly_graph.html? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:13] 192.168.1.30 GET http /dashboard/api/endpoint_info/1? 200 OK 
+REQUEST Body: null
+RESPONSE: {"color": "rgb(96, 64, 191)", "endpoint": "auth1.detection", "id": "1", "methods": ["POST", "OPTIONS"], "monitor-level": 3, "rules": ["/api/v1/post"], "total_hits": 0, "url": "/api/v1/post"}
+[2019-Mar-19 09:13] 192.168.1.30 GET http /dashboard/api/hourly_load/2019-03-05/2019-03-19/1? 200 OK 
+REQUEST Body: null
+RESPONSE: {"data": [[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]], "days": ["2019-03-05", "2019-03-06", "2019-03-07", "2019-03-08", "2019-03-09", "2019-03-10", "2019-03-11", "2019-03-12", "2019-03-13", "2019-03-14", "2019-03-15", "2019-03-16", "2019-03-17", "2019-03-18", "2019-03-19"]}
+[2019-Mar-19 09:13] 192.168.1.30 GET http /dashboard/api/overview? 200 OK 
+REQUEST Body: null
+RESPONSE: [{"color": "rgb(96, 64, 191)", "hits-overall": 0, "hits-today": 0, "hits-week": 0, "id": 1, "last-accessed": null, "median-overall": 0, "median-today": 0, "median-week": 0, "monitor": 3, "name": "auth1.detection"}, {"color": "rgb(86, 45, 134)", "hits-overall": 0, "hits-today": 0, "hits-week": 0, "id": 2, "last-accessed": null, "median-overall": 0, "median-today": 0, "median-week": 0, "monitor": 3, "name": "auth2.detection"}, {"color": "rgb(172, 163, 83)", "hits-overall": 0, "hits-today": 0, "hits-week": 0, "id": 3, "last-accessed": null, "median-overall": 0, "median-today": 0, "median-week": 0, "monitor": 3, "name": "auth3.detection"}, {"color": "rgb(58, 86, 120)", "hits-overall": 0, "hits-today": 0, "hits-week": 0, "id": 4, "last-accessed": null, "median-overall": 0, "median-today": 0, "median-week": 0, "monitor": 3, "name": "auth1.get_bounding_box"}, {"color": "rgb(224, 152, 108)", "hits-overall": 0, "hits-today": 0, "hits-week": 0, "id": 5, "last-accessed": null, "median-overall": 0, "median-today": 0, "median-week": 0, "monitor": 3, "name": "auth2.get_bounding_box"}, {"color": "rgb(70, 64, 191)", "hits-overall": 0, "hits-today": 0, "hits-week": 0, "id": 6, "last-accessed": null, "median-overall": 0, "median-today": 0, "median-week": 0, "monitor": 3, "name": "auth3.get_bounding_box"}, {"color": "rgb(31, 43, 147)", "hits-overall": 0, "hits-today": 0, "hits-week": 0, "id": 7, "last-accessed": null, "median-overall": 0, "median-today": 0, "median-week": 0, "monitor": 3, "name": "auth1.disconnect"}, {"color": "rgb(64, 136, 191)", "hits-overall": 0, "hits-today": 0, "hits-week": 0, "id": 8, "last-accessed": null, "median-overall": 0, "median-today": 0, "median-week": 0, "monitor": 3, "name": "auth2.disconnect"}, {"color": "rgb(128, 147, 31)", "hits-overall": 0, "hits-today": 0, "hits-week": 0, "id": 9, "last-accessed": null, "median-overall": 0, "median-today": 0, "median-week": 0, "monitor": 3, "name": "auth3.disconnect"}, {"color": "rgb(92, 45, 210)", "hits-overall": 0, "hits-today": 0, "hits-week": 0, "id": 10, "last-accessed": null, "median-overall": 0, "median-today": 0, "median-week": 0, "monitor": 3, "name": "auth1.change_parameters"}, {"color": "rgb(83, 172, 157)", "hits-overall": 0, "hits-today": 0, "hits-week": 0, "id": 11, "last-accessed": null, "median-overall": 0, "median-today": 0, "median-week": 0, "monitor": 1, "name": "auth2.change_parameters"}, {"color": "rgb(147, 111, 31)", "hits-overall": 0, "hits-today": 0, "hits-week": 0, "id": 12, "last-accessed": null, "median-overall": 0, "median-today": 0, "median-week": 0, "monitor": 1, "name": "auth3.change_parameters"}]
+[2019-Mar-19 09:15] 192.168.1.30 GET http /post? 499 UNKNOWN 
+REQUEST Body: null
+RESPONSE: {"message": "Malformed RESTful or HTTP or Protocol Request", "status_code": 499}
+[2019-Mar-19 09:15] 192.168.1.30 GET http /api/v1/post? 499 UNKNOWN 
+REQUEST Body: null
+RESPONSE: {"message": "Malformed RESTful or HTTP or Protocol Request", "status_code": 499}
+[2019-Mar-19 09:16] 192.168.1.30 GET http /api/v1/post? 500 INTERNAL SERVER ERROR 
+REQUEST Body: null
+RESPONSE: {"message": "INTERNAL SERVER ERROR", "status_code": 500}
+[2019-Mar-19 09:16] 192.168.1.30 GET http /api/v1/post? 500 INTERNAL SERVER ERROR 
+REQUEST Body: null
+RESPONSE: {"message": "INTERNAL SERVER ERROR", "status_code": 500}
+[2019-Mar-19 09:16] 192.168.1.30 GET http /api/v1? 500 INTERNAL SERVER ERROR 
+REQUEST Body: null
+RESPONSE: {"message": "INTERNAL SERVER ERROR", "status_code": 500}
+[2019-Mar-19 09:16] 192.168.1.30 GET http /api/v1/post? 500 INTERNAL SERVER ERROR 
+REQUEST Body: null
+RESPONSE: {"message": "INTERNAL SERVER ERROR", "status_code": 500}
+[2019-Mar-19 09:17] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:17] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:17] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:17] 192.168.1.30 GET http /dashboard/overview? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:17] 192.168.1.30 GET http /dashboard/api/custom_graphs? 200 OK 
+REQUEST Body: null
+RESPONSE: []
+[2019-Mar-19 09:17] 192.168.1.30 GET http /dashboard/api/overview? 200 OK 
+REQUEST Body: null
+RESPONSE: [{"color": "rgb(96, 64, 191)", "hits-overall": 2, "hits-today": 2, "hits-week": 2, "id": 1, "last-accessed": "Tue, 19 Mar 2019 02:17:10 GMT", "median-overall": 0.0, "median-today": 0.0, "median-week": 0.0, "monitor": 3, "name": "auth1.detection"}, {"color": "rgb(58, 86, 120)", "hits-overall": 1, "hits-today": 1, "hits-week": 1, "id": 4, "last-accessed": "Tue, 19 Mar 2019 02:17:34 GMT", "median-overall": 0.0, "median-today": 0.0, "median-week": 0.0, "monitor": 3, "name": "auth1.get_bounding_box"}, {"color": "rgb(86, 45, 134)", "hits-overall": 0, "hits-today": 0, "hits-week": 0, "id": 2, "last-accessed": null, "median-overall": 0, "median-today": 0, "median-week": 0, "monitor": 3, "name": "auth2.detection"}, {"color": "rgb(172, 163, 83)", "hits-overall": 0, "hits-today": 0, "hits-week": 0, "id": 3, "last-accessed": null, "median-overall": 0, "median-today": 0, "median-week": 0, "monitor": 3, "name": "auth3.detection"}, {"color": "rgb(224, 152, 108)", "hits-overall": 0, "hits-today": 0, "hits-week": 0, "id": 5, "last-accessed": null, "median-overall": 0, "median-today": 0, "median-week": 0, "monitor": 3, "name": "auth2.get_bounding_box"}, {"color": "rgb(70, 64, 191)", "hits-overall": 0, "hits-today": 0, "hits-week": 0, "id": 6, "last-accessed": null, "median-overall": 0, "median-today": 0, "median-week": 0, "monitor": 3, "name": "auth3.get_bounding_box"}, {"color": "rgb(31, 43, 147)", "hits-overall": 0, "hits-today": 0, "hits-week": 0, "id": 7, "last-accessed": null, "median-overall": 0, "median-today": 0, "median-week": 0, "monitor": 3, "name": "auth1.disconnect"}, {"color": "rgb(64, 136, 191)", "hits-overall": 0, "hits-today": 0, "hits-week": 0, "id": 8, "last-accessed": null, "median-overall": 0, "median-today": 0, "median-week": 0, "monitor": 3, "name": "auth2.disconnect"}, {"color": "rgb(128, 147, 31)", "hits-overall": 0, "hits-today": 0, "hits-week": 0, "id": 9, "last-accessed": null, "median-overall": 0, "median-today": 0, "median-week": 0, "monitor": 3, "name": "auth3.disconnect"}, {"color": "rgb(92, 45, 210)", "hits-overall": 0, "hits-today": 0, "hits-week": 0, "id": 10, "last-accessed": null, "median-overall": 0, "median-today": 0, "median-week": 0, "monitor": 3, "name": "auth1.change_parameters"}, {"color": "rgb(83, 172, 157)", "hits-overall": 0, "hits-today": 0, "hits-week": 0, "id": 11, "last-accessed": null, "median-overall": 0, "median-today": 0, "median-week": 0, "monitor": 1, "name": "auth2.change_parameters"}, {"color": "rgb(147, 111, 31)", "hits-overall": 0, "hits-today": 0, "hits-week": 0, "id": 12, "last-accessed": null, "median-overall": 0, "median-today": 0, "median-week": 0, "monitor": 1, "name": "auth3.change_parameters"}]
+[2019-Mar-19 09:17] 192.168.1.30 GET http /dashboard/api/deploy_details? 200 OK 
+REQUEST Body: null
+RESPONSE: {"config-version": "1.0", "dashboard-version": "2.1.1", "first-request": "Tue, 19 Mar 2019 09:17:07 GMT", "first-request-version": "Tue, 19 Mar 2019 09:17:07 GMT", "link": "dashboard", "total-requests": 3}
+[2019-Mar-19 09:17] 192.168.1.30 GET http /dashboard/static/img/favicon.ico? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:17] 192.168.1.30 GET http /dashboard/api/endpoint_info/1? 200 OK 
+REQUEST Body: null
+RESPONSE: {"color": "rgb(96, 64, 191)", "endpoint": "auth1.detection", "id": "1", "methods": ["POST", "OPTIONS"], "monitor-level": 3, "rules": ["/api/v1/post"], "total_hits": 2, "url": "/api/v1/post"}
+[2019-Mar-19 09:17] 192.168.1.30 GET http /dashboard/api/hourly_load/2019-03-05/2019-03-19/1? 200 OK 
+REQUEST Body: null
+RESPONSE: {"data": [[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]], "days": ["2019-03-05", "2019-03-06", "2019-03-07", "2019-03-08", "2019-03-09", "2019-03-10", "2019-03-11", "2019-03-12", "2019-03-13", "2019-03-14", "2019-03-15", "2019-03-16", "2019-03-17", "2019-03-18", "2019-03-19"]}
+[2019-Mar-19 09:18] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:18] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:19] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:19] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:20] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:20] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:20] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:20] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:20] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:20] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:20] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:20] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:20] 192.168.1.30 POST http /api/v2/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v2"}
+[2019-Mar-19 09:21] 192.168.1.30 POST http /api/v3/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v3"}
+[2019-Mar-19 09:21] 192.168.1.30 GET http /api/v2/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v2"}
+[2019-Mar-19 09:21] 192.168.1.30 GET http /api/v3/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v3"}
+[2019-Mar-19 09:21] 192.168.1.30 GET http /api/v3/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v3"}
+[2019-Mar-19 09:21] 192.168.1.30 DELETE http /api/v2/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v2"}
+[2019-Mar-19 09:22] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 DELETE http /api/v2/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v2"}
+[2019-Mar-19 09:22] 192.168.1.30 DELETE http /api/v3/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v3"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:22] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 POST http /api/v1/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /api/v1/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 PUT http /api/v1/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 DELETE http /api/v1/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /dashboard/endpoint/1/hourly_load? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:23] 192.168.1.30 GET http /dashboard/api/custom_graphs? 200 OK 
+REQUEST Body: null
+RESPONSE: []
+[2019-Mar-19 09:23] 192.168.1.30 GET http /dashboard/api/endpoint_info/1? 200 OK 
+REQUEST Body: null
+RESPONSE: {"color": "rgb(96, 64, 191)", "endpoint": "auth1.detection", "id": "1", "methods": ["POST", "OPTIONS"], "monitor-level": 3, "rules": ["/api/v1/post"], "total_hits": 122, "url": "/api/v1/post"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /dashboard/api/hourly_load/2019-03-05/2019-03-19/1? 200 OK 
+REQUEST Body: null
+RESPONSE: {"data": [[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 122.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]], "days": ["2019-03-05", "2019-03-06", "2019-03-07", "2019-03-08", "2019-03-09", "2019-03-10", "2019-03-11", "2019-03-12", "2019-03-13", "2019-03-14", "2019-03-15", "2019-03-16", "2019-03-17", "2019-03-18", "2019-03-19"]}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /dashboard/static/img/favicon.ico? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:23] 192.168.1.30 GET http /dashboard/api/endpoint_info/1? 200 OK 
+REQUEST Body: null
+RESPONSE: {"color": "rgb(96, 64, 191)", "endpoint": "auth1.detection", "id": "1", "methods": ["POST", "OPTIONS"], "monitor-level": 3, "rules": ["/api/v1/post"], "total_hits": 122, "url": "/api/v1/post"}
+[2019-Mar-19 09:23] 192.168.1.30 GET http /dashboard/api/users/1? 200 OK 
+REQUEST Body: null
+RESPONSE: [{"hits": 122, "user": "None"}]
+[2019-Mar-19 09:23] 192.168.1.30 GET http /dashboard/api/versions/1? 200 OK 
+REQUEST Body: null
+RESPONSE: [{"date": "Tue, 19 Mar 2019 02:17:07 GMT", "version": "1.0"}]
+[2019-Mar-19 09:23] 192.168.1.30 POST http /dashboard/api/version_user/1? 200 OK 
+REQUEST Body: {"data": {"versions": ["1.0"], "users": ["None"]}}
+RESPONSE: {"data": [[0.0]], "versions": [{"date": "Tue, 19 Mar 2019 02:17:07 GMT", "version": "1.0"}]}
+[2019-Mar-19 09:24] 192.168.1.30 POST http /dashboard/api/version_user/1? 200 OK 
+REQUEST Body: {"data": {"versions": ["1.0"], "users": ["None"]}}
+RESPONSE: {"data": [[0.0]], "versions": [{"date": "Tue, 19 Mar 2019 02:17:07 GMT", "version": "1.0"}]}
+[2019-Mar-19 09:24] 192.168.1.30 GET http /dashboard/api/endpoint_info/1? 200 OK 
+REQUEST Body: null
+RESPONSE: {"color": "rgb(96, 64, 191)", "endpoint": "auth1.detection", "id": "1", "methods": ["POST", "OPTIONS"], "monitor-level": 3, "rules": ["/api/v1/post"], "total_hits": 122, "url": "/api/v1/post"}
+[2019-Mar-19 09:24] 192.168.1.30 GET http /dashboard/api/versions/1? 200 OK 
+REQUEST Body: null
+RESPONSE: [{"date": "Tue, 19 Mar 2019 02:17:07 GMT", "version": "1.0"}]
+[2019-Mar-19 09:24] 192.168.1.30 GET http /dashboard/api/ip/1? 200 OK 
+REQUEST Body: null
+RESPONSE: [{"hits": 122, "ip": "192.168.1.30"}]
+[2019-Mar-19 09:24] 192.168.1.30 POST http /dashboard/api/version_ip/1? 200 OK 
+REQUEST Body: {"data": {"versions": ["1.0"], "ip": ["192.168.1.30"]}}
+RESPONSE: {"data": [[0.0]], "versions": [{"date": "Tue, 19 Mar 2019 02:17:07 GMT", "version": "1.0"}]}
+[2019-Mar-19 09:24] 192.168.1.30 GET http /dashboard/api/versions? 200 OK 
+REQUEST Body: null
+RESPONSE: [{"date": "Tue, 19 Mar 2019 02:17:07 GMT", "version": "1.0"}]
+[2019-Mar-19 09:24] 192.168.1.30 GET http /dashboard/api/endpoints_hits? 200 OK 
+REQUEST Body: null
+RESPONSE: [{"hits": 122, "name": "auth1.detection"}, {"hits": 109, "name": "auth1.get_bounding_box"}, {"hits": 102, "name": "auth1.change_parameters"}, {"hits": 99, "name": "auth1.disconnect"}, {"hits": 2, "name": "auth3.get_bounding_box"}, {"hits": 2, "name": "auth2.disconnect"}, {"hits": 1, "name": "auth2.detection"}, {"hits": 1, "name": "auth3.detection"}, {"hits": 1, "name": "auth2.get_bounding_box"}, {"hits": 1, "name": "auth3.disconnect"}]
+[2019-Mar-19 09:24] 192.168.1.30 POST http /dashboard/api/multi_version? 200 OK 
+REQUEST Body: {"data": {"versions": ["1.0"], "endpoints": ["auth1.detection", "auth1.get_bounding_box", "auth1.change_parameters", "auth1.disconnect", "auth3.get_bounding_box", "auth2.disconnect", "auth2.detection", "auth3.detection", "auth2.get_bounding_box", "auth3.disconnect"]}}
+RESPONSE: [[27.727272727272727], [24.772727272727273], [23.181818181818183], [22.5], [0.45454545454545453], [0.45454545454545453], [0.22727272727272727], [0.22727272727272727], [0.22727272727272727], [0.22727272727272727]]
+[2019-Mar-19 09:25] 192.168.1.30 PUT http /api/v2.0/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v2"}
+[2019-Mar-19 09:25] 192.168.1.30 PUT http /api/v3.0/PUT/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "PUT Success", "status_code": 200, "version": "v3"}
+[2019-Mar-19 09:25] 192.168.1.30 DELETE http /api/v1.0/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:25] 192.168.1.30 DELETE http /api/v2.0/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v2"}
+[2019-Mar-19 09:25] 192.168.1.30 DELETE http /api/v3.0/delete/123? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "DELETE Success", "status_code": 200, "version": "v3"}
+[2019-Mar-19 09:25] 192.168.1.30 GET http /api/v2.0/get? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "GET Success", "status_code": 200, "version": "v2"}
+[2019-Mar-19 09:25] 192.168.1.30 POST http /api/v1.0/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:26] 192.168.1.30 GET http /dashboard/multi_version? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:26] 192.168.1.30 GET http /dashboard/api/custom_graphs? 200 OK 
+REQUEST Body: null
+RESPONSE: []
+[2019-Mar-19 09:26] 192.168.1.30 GET http /dashboard/api/versions? 200 OK 
+REQUEST Body: null
+RESPONSE: [{"date": "Tue, 19 Mar 2019 02:17:07 GMT", "version": "1.0"}]
+[2019-Mar-19 09:26] 192.168.1.30 GET http /dashboard/api/endpoints_hits? 200 OK 
+REQUEST Body: null
+RESPONSE: [{"hits": 123, "name": "auth1.detection"}, {"hits": 109, "name": "auth1.get_bounding_box"}, {"hits": 102, "name": "auth1.change_parameters"}, {"hits": 100, "name": "auth1.disconnect"}, {"hits": 3, "name": "auth2.disconnect"}, {"hits": 2, "name": "auth2.get_bounding_box"}, {"hits": 2, "name": "auth3.get_bounding_box"}, {"hits": 2, "name": "auth3.disconnect"}, {"hits": 1, "name": "auth2.detection"}, {"hits": 1, "name": "auth3.detection"}, {"hits": 1, "name": "auth2.change_parameters"}, {"hits": 1, "name": "auth3.change_parameters"}]
+[2019-Mar-19 09:26] 192.168.1.30 GET http /dashboard/static/img/favicon.ico? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:26] 192.168.1.30 POST http /dashboard/api/multi_version? 200 OK 
+REQUEST Body: {"data": {"versions": ["1.0"], "endpoints": ["auth1.detection", "auth1.get_bounding_box", "auth1.change_parameters", "auth1.disconnect", "auth2.disconnect", "auth2.get_bounding_box", "auth3.get_bounding_box", "auth3.disconnect", "auth2.detection", "auth3.detection"]}}
+RESPONSE: [[27.516778523489933], [24.384787472035793], [22.818791946308725], [22.371364653243848], [0.6711409395973155], [0.44742729306487694], [0.44742729306487694], [0.44742729306487694], [0.22371364653243847], [0.22371364653243847]]
+[2019-Mar-19 09:26] 192.168.1.30 GET http /dashboard/static/pages/configuration.html? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:26] 192.168.1.30 GET http /dashboard/api/deploy_config? 200 OK 
+REQUEST Body: null
+RESPONSE: {"colors": {}, "database_name": "sqlite:///flask_monitoringdashboard.db", "guest_username": ["guest"], "outlier_detection_constant": 2.5, "timezone": "Asia/Bangkok", "username": "admin"}
+[2019-Mar-19 09:26] 192.168.1.30 GET http /dashboard/api/deploy_details? 200 OK 
+REQUEST Body: null
+RESPONSE: {"config-version": "1.0", "dashboard-version": "2.1.1", "first-request": "Tue, 19 Mar 2019 09:17:07 GMT", "first-request-version": "Tue, 19 Mar 2019 09:17:07 GMT", "link": "dashboard", "total-requests": 447}
+[2019-Mar-19 09:26] 192.168.1.30 GET http /dashboard/logout? 302 FOUND 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:26] 192.168.1.30 GET http /dashboard/login? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:26] 192.168.1.30 POST http /dashboard/login? 302 FOUND 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:26] 192.168.1.30 GET http /dashboard/? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:26] 192.168.1.30 GET http /dashboard/api/custom_graphs? 200 OK 
+REQUEST Body: null
+RESPONSE: []
+[2019-Mar-19 09:26] 192.168.1.30 GET http /dashboard/api/overview? 200 OK 
+REQUEST Body: null
+RESPONSE: [{"color": "rgb(96, 64, 191)", "hits-overall": 123, "hits-today": 123, "hits-week": 123, "id": 1, "last-accessed": "Tue, 19 Mar 2019 02:25:58 GMT", "median-overall": 0.0, "median-today": 0.0, "median-week": 0.0, "monitor": 3, "name": "auth1.detection"}, {"color": "rgb(58, 86, 120)", "hits-overall": 109, "hits-today": 109, "hits-week": 109, "id": 4, "last-accessed": "Tue, 19 Mar 2019 02:23:23 GMT", "median-overall": 0.0, "median-today": 0.0, "median-week": 0.0, "monitor": 3, "name": "auth1.get_bounding_box"}, {"color": "rgb(92, 45, 210)", "hits-overall": 102, "hits-today": 102, "hits-week": 102, "id": 10, "last-accessed": "Tue, 19 Mar 2019 02:23:23 GMT", "median-overall": 0.0, "median-today": 0.0, "median-week": 0.0, "monitor": 3, "name": "auth1.change_parameters"}, {"color": "rgb(31, 43, 147)", "hits-overall": 100, "hits-today": 100, "hits-week": 100, "id": 7, "last-accessed": "Tue, 19 Mar 2019 02:25:45 GMT", "median-overall": 0.0, "median-today": 0.0, "median-week": 0.0, "monitor": 3, "name": "auth1.disconnect"}, {"color": "rgb(64, 136, 191)", "hits-overall": 3, "hits-today": 3, "hits-week": 3, "id": 8, "last-accessed": "Tue, 19 Mar 2019 02:25:49 GMT", "median-overall": 0.0, "median-today": 0.0, "median-week": 0.0, "monitor": 3, "name": "auth2.disconnect"}, {"color": "rgb(224, 152, 108)", "hits-overall": 2, "hits-today": 2, "hits-week": 2, "id": 5, "last-accessed": "Tue, 19 Mar 2019 02:25:57 GMT", "median-overall": 0.0, "median-today": 0.0, "median-week": 0.0, "monitor": 3, "name": "auth2.get_bounding_box"}, {"color": "rgb(70, 64, 191)", "hits-overall": 2, "hits-today": 2, "hits-week": 2, "id": 6, "last-accessed": "Tue, 19 Mar 2019 02:21:55 GMT", "median-overall": 0.4996061325073242, "median-today": 0.4996061325073242, "median-week": 0.4996061325073242, "monitor": 3, "name": "auth3.get_bounding_box"}, {"color": "rgb(128, 147, 31)", "hits-overall": 2, "hits-today": 2, "hits-week": 2, "id": 9, "last-accessed": "Tue, 19 Mar 2019 02:25:53 GMT", "median-overall": 0.0, "median-today": 0.0, "median-week": 0.0, "monitor": 3, "name": "auth3.disconnect"}, {"color": "rgb(86, 45, 134)", "hits-overall": 1, "hits-today": 1, "hits-week": 1, "id": 2, "last-accessed": "Tue, 19 Mar 2019 02:20:38 GMT", "median-overall": 0.0, "median-today": 0.0, "median-week": 0.0, "monitor": 3, "name": "auth2.detection"}, {"color": "rgb(172, 163, 83)", "hits-overall": 1, "hits-today": 1, "hits-week": 1, "id": 3, "last-accessed": "Tue, 19 Mar 2019 02:21:00 GMT", "median-overall": 0.0, "median-today": 0.0, "median-week": 0.0, "monitor": 3, "name": "auth3.detection"}, {"color": "rgb(83, 172, 157)", "hits-overall": 1, "hits-today": 1, "hits-week": 1, "id": 11, "last-accessed": "Tue, 19 Mar 2019 02:25:36 GMT", "median-overall": 0.99945068359375, "median-today": 0.99945068359375, "median-week": 0.99945068359375, "monitor": 1, "name": "auth2.change_parameters"}, {"color": "rgb(147, 111, 31)", "hits-overall": 1, "hits-today": 1, "hits-week": 1, "id": 12, "last-accessed": "Tue, 19 Mar 2019 02:25:42 GMT", "median-overall": 0.0, "median-today": 0.0, "median-week": 0.0, "monitor": 1, "name": "auth3.change_parameters"}]
+[2019-Mar-19 09:26] 192.168.1.30 GET http /dashboard/api/deploy_details? 200 OK 
+REQUEST Body: null
+RESPONSE: {"config-version": "1.0", "dashboard-version": "2.1.1", "first-request": "Tue, 19 Mar 2019 09:17:07 GMT", "first-request-version": "Tue, 19 Mar 2019 09:17:07 GMT", "link": "dashboard", "total-requests": 447}
+[2019-Mar-19 09:26] 192.168.1.30 GET http /dashboard/api/versions? 200 OK 
+REQUEST Body: null
+RESPONSE: [{"date": "Tue, 19 Mar 2019 02:17:07 GMT", "version": "1.0"}]
+[2019-Mar-19 09:26] 192.168.1.30 GET http /dashboard/api/endpoints_hits? 200 OK 
+REQUEST Body: null
+RESPONSE: [{"hits": 123, "name": "auth1.detection"}, {"hits": 109, "name": "auth1.get_bounding_box"}, {"hits": 102, "name": "auth1.change_parameters"}, {"hits": 100, "name": "auth1.disconnect"}, {"hits": 3, "name": "auth2.disconnect"}, {"hits": 2, "name": "auth2.get_bounding_box"}, {"hits": 2, "name": "auth3.get_bounding_box"}, {"hits": 2, "name": "auth3.disconnect"}, {"hits": 1, "name": "auth2.detection"}, {"hits": 1, "name": "auth3.detection"}, {"hits": 1, "name": "auth2.change_parameters"}, {"hits": 1, "name": "auth3.change_parameters"}]
+[2019-Mar-19 09:26] 192.168.1.30 POST http /dashboard/api/multi_version? 200 OK 
+REQUEST Body: {"data": {"versions": ["1.0"], "endpoints": ["auth1.detection", "auth1.get_bounding_box", "auth1.change_parameters", "auth1.disconnect", "auth2.disconnect", "auth2.get_bounding_box", "auth3.get_bounding_box", "auth3.disconnect", "auth2.detection", "auth3.detection"]}}
+RESPONSE: [[27.516778523489933], [24.384787472035793], [22.818791946308725], [22.371364653243848], [0.6711409395973155], [0.44742729306487694], [0.44742729306487694], [0.44742729306487694], [0.22371364653243847], [0.22371364653243847]]
+[2019-Mar-19 09:29] 192.168.1.30 GET http /dashboard/api/requests/2019-03-09/2019-03-19? 200 OK 
+REQUEST Body: null
+RESPONSE: {"data": [{"name": "auth1.detection", "values": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 123]}, {"name": "auth1.get_bounding_box", "values": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 109]}, {"name": "auth1.change_parameters", "values": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 102]}, {"name": "auth1.disconnect", "values": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 100]}, {"name": "auth2.disconnect", "values": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3]}, {"name": "auth2.get_bounding_box", "values": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2]}, {"name": "auth3.get_bounding_box", "values": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2]}, {"name": "auth3.disconnect", "values": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2]}, {"name": "auth2.detection", "values": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]}, {"name": "auth3.detection", "values": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]}, {"name": "auth2.change_parameters", "values": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]}, {"name": "auth3.change_parameters", "values": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]}], "days": ["2019-03-09", "2019-03-10", "2019-03-11", "2019-03-12", "2019-03-13", "2019-03-14", "2019-03-15", "2019-03-16", "2019-03-17", "2019-03-18", "2019-03-19"]}
+[2019-Mar-19 09:29] 192.168.1.30 GET http /dashboard/api/endpoints_hits? 200 OK 
+REQUEST Body: null
+RESPONSE: [{"hits": 123, "name": "auth1.detection"}, {"hits": 109, "name": "auth1.get_bounding_box"}, {"hits": 102, "name": "auth1.change_parameters"}, {"hits": 100, "name": "auth1.disconnect"}, {"hits": 3, "name": "auth2.disconnect"}, {"hits": 2, "name": "auth2.get_bounding_box"}, {"hits": 2, "name": "auth3.get_bounding_box"}, {"hits": 2, "name": "auth3.disconnect"}, {"hits": 1, "name": "auth2.detection"}, {"hits": 1, "name": "auth3.detection"}, {"hits": 1, "name": "auth2.change_parameters"}, {"hits": 1, "name": "auth3.change_parameters"}]
+[2019-Mar-19 09:29] 192.168.1.30 POST http /dashboard/api/api_performance? 200 OK 
+REQUEST Body: {"data": {"endpoints": ["auth1.detection", "auth1.get_bounding_box", "auth1.change_parameters", "auth1.disconnect", "auth2.disconnect", "auth2.get_bounding_box", "auth3.get_bounding_box", "auth3.disconnect", "auth2.detection", "auth3.detection"]}}
+RESPONSE: [{"name": "auth1.detection", "values": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9298467636108376, 0.9990596771240234, 1.0137557983398438]}, {"name": "auth1.get_bounding_box", "values": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9989833831787109, 1.0023117065429688]}, {"name": "auth1.change_parameters", "values": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9987354278564453, 1.0008811950683594]}, {"name": "auth1.disconnect", "values": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9987640380859375, 1.0006427764892578]}, {"name": "auth2.disconnect", "values": [0.0, 0.0, 0.0]}, {"name": "auth2.get_bounding_box", "values": [0.0, 0.0]}, {"name": "auth3.get_bounding_box", "values": [0.0, 0.9992122650146484]}, {"name": "auth3.disconnect", "values": [0.0, 0.0]}, {"name": "auth2.detection", "values": [0.0]}, {"name": "auth3.detection", "values": [0.0]}]
+[2019-Mar-19 09:29] 192.168.1.30 GET http /dashboard/api/requests/2019-03-09/2019-03-19? 200 OK 
+REQUEST Body: null
+RESPONSE: {"data": [{"name": "auth1.detection", "values": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 123]}, {"name": "auth1.get_bounding_box", "values": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 109]}, {"name": "auth1.change_parameters", "values": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 102]}, {"name": "auth1.disconnect", "values": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 100]}, {"name": "auth2.disconnect", "values": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3]}, {"name": "auth2.get_bounding_box", "values": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2]}, {"name": "auth3.get_bounding_box", "values": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2]}, {"name": "auth3.disconnect", "values": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2]}, {"name": "auth2.detection", "values": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]}, {"name": "auth3.detection", "values": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]}, {"name": "auth2.change_parameters", "values": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]}, {"name": "auth3.change_parameters", "values": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]}], "days": ["2019-03-09", "2019-03-10", "2019-03-11", "2019-03-12", "2019-03-13", "2019-03-14", "2019-03-15", "2019-03-16", "2019-03-17", "2019-03-18", "2019-03-19"]}
+[2019-Mar-19 09:29] 192.168.1.30 GET http /dashboard/api/versions? 200 OK 
+REQUEST Body: null
+RESPONSE: [{"date": "Tue, 19 Mar 2019 02:17:07 GMT", "version": "1.0"}]
+[2019-Mar-19 09:29] 192.168.1.30 GET http /dashboard/api/endpoints_hits? 200 OK 
+REQUEST Body: null
+RESPONSE: [{"hits": 123, "name": "auth1.detection"}, {"hits": 109, "name": "auth1.get_bounding_box"}, {"hits": 102, "name": "auth1.change_parameters"}, {"hits": 100, "name": "auth1.disconnect"}, {"hits": 3, "name": "auth2.disconnect"}, {"hits": 2, "name": "auth2.get_bounding_box"}, {"hits": 2, "name": "auth3.get_bounding_box"}, {"hits": 2, "name": "auth3.disconnect"}, {"hits": 1, "name": "auth2.detection"}, {"hits": 1, "name": "auth3.detection"}, {"hits": 1, "name": "auth2.change_parameters"}, {"hits": 1, "name": "auth3.change_parameters"}]
+[2019-Mar-19 09:29] 192.168.1.30 POST http /dashboard/api/multi_version? 200 OK 
+REQUEST Body: {"data": {"versions": ["1.0"], "endpoints": ["auth1.detection", "auth1.get_bounding_box", "auth1.change_parameters", "auth1.disconnect", "auth2.disconnect", "auth2.get_bounding_box", "auth3.get_bounding_box", "auth3.disconnect", "auth2.detection", "auth3.detection"]}}
+RESPONSE: [[27.516778523489933], [24.384787472035793], [22.818791946308725], [22.371364653243848], [0.6711409395973155], [0.44742729306487694], [0.44742729306487694], [0.44742729306487694], [0.22371364653243847], [0.22371364653243847]]
+[2019-Mar-19 09:30] 192.168.1.30 GET http /dashboard/api/hourly_load/2019-03-05/2019-03-19? 200 OK 
+REQUEST Body: null
+RESPONSE: {"data": [[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 447.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]], "days": ["2019-03-05", "2019-03-06", "2019-03-07", "2019-03-08", "2019-03-09", "2019-03-10", "2019-03-11", "2019-03-12", "2019-03-13", "2019-03-14", "2019-03-15", "2019-03-16", "2019-03-17", "2019-03-18", "2019-03-19"]}
+[2019-Mar-19 09:30] 192.168.1.30 GET http /dashboard/api/overview? 200 OK 
+REQUEST Body: null
+RESPONSE: [{"color": "rgb(96, 64, 191)", "hits-overall": 123, "hits-today": 123, "hits-week": 123, "id": 1, "last-accessed": "Tue, 19 Mar 2019 02:25:58 GMT", "median-overall": 0.0, "median-today": 0.0, "median-week": 0.0, "monitor": 3, "name": "auth1.detection"}, {"color": "rgb(58, 86, 120)", "hits-overall": 109, "hits-today": 109, "hits-week": 109, "id": 4, "last-accessed": "Tue, 19 Mar 2019 02:23:23 GMT", "median-overall": 0.0, "median-today": 0.0, "median-week": 0.0, "monitor": 3, "name": "auth1.get_bounding_box"}, {"color": "rgb(92, 45, 210)", "hits-overall": 102, "hits-today": 102, "hits-week": 102, "id": 10, "last-accessed": "Tue, 19 Mar 2019 02:23:23 GMT", "median-overall": 0.0, "median-today": 0.0, "median-week": 0.0, "monitor": 3, "name": "auth1.change_parameters"}, {"color": "rgb(31, 43, 147)", "hits-overall": 100, "hits-today": 100, "hits-week": 100, "id": 7, "last-accessed": "Tue, 19 Mar 2019 02:25:45 GMT", "median-overall": 0.0, "median-today": 0.0, "median-week": 0.0, "monitor": 3, "name": "auth1.disconnect"}, {"color": "rgb(64, 136, 191)", "hits-overall": 3, "hits-today": 3, "hits-week": 3, "id": 8, "last-accessed": "Tue, 19 Mar 2019 02:25:49 GMT", "median-overall": 0.0, "median-today": 0.0, "median-week": 0.0, "monitor": 3, "name": "auth2.disconnect"}, {"color": "rgb(224, 152, 108)", "hits-overall": 2, "hits-today": 2, "hits-week": 2, "id": 5, "last-accessed": "Tue, 19 Mar 2019 02:25:57 GMT", "median-overall": 0.0, "median-today": 0.0, "median-week": 0.0, "monitor": 3, "name": "auth2.get_bounding_box"}, {"color": "rgb(70, 64, 191)", "hits-overall": 2, "hits-today": 2, "hits-week": 2, "id": 6, "last-accessed": "Tue, 19 Mar 2019 02:21:55 GMT", "median-overall": 0.4996061325073242, "median-today": 0.4996061325073242, "median-week": 0.4996061325073242, "monitor": 3, "name": "auth3.get_bounding_box"}, {"color": "rgb(128, 147, 31)", "hits-overall": 2, "hits-today": 2, "hits-week": 2, "id": 9, "last-accessed": "Tue, 19 Mar 2019 02:25:53 GMT", "median-overall": 0.0, "median-today": 0.0, "median-week": 0.0, "monitor": 3, "name": "auth3.disconnect"}, {"color": "rgb(86, 45, 134)", "hits-overall": 1, "hits-today": 1, "hits-week": 1, "id": 2, "last-accessed": "Tue, 19 Mar 2019 02:20:38 GMT", "median-overall": 0.0, "median-today": 0.0, "median-week": 0.0, "monitor": 3, "name": "auth2.detection"}, {"color": "rgb(172, 163, 83)", "hits-overall": 1, "hits-today": 1, "hits-week": 1, "id": 3, "last-accessed": "Tue, 19 Mar 2019 02:21:00 GMT", "median-overall": 0.0, "median-today": 0.0, "median-week": 0.0, "monitor": 3, "name": "auth3.detection"}, {"color": "rgb(83, 172, 157)", "hits-overall": 1, "hits-today": 1, "hits-week": 1, "id": 11, "last-accessed": "Tue, 19 Mar 2019 02:25:36 GMT", "median-overall": 0.99945068359375, "median-today": 0.99945068359375, "median-week": 0.99945068359375, "monitor": 1, "name": "auth2.change_parameters"}, {"color": "rgb(147, 111, 31)", "hits-overall": 1, "hits-today": 1, "hits-week": 1, "id": 12, "last-accessed": "Tue, 19 Mar 2019 02:25:42 GMT", "median-overall": 0.0, "median-today": 0.0, "median-week": 0.0, "monitor": 1, "name": "auth3.change_parameters"}]
+[2019-Mar-19 09:30] 192.168.1.30 GET http /dashboard/api/deploy_details? 200 OK 
+REQUEST Body: null
+RESPONSE: {"config-version": "1.0", "dashboard-version": "2.1.1", "first-request": "Tue, 19 Mar 2019 09:17:07 GMT", "first-request-version": "Tue, 19 Mar 2019 09:17:07 GMT", "link": "dashboard", "total-requests": 447}
+[2019-Mar-19 09:30] 192.168.1.30 GET http /dashboard/api/hourly_load/2019-03-05/2019-03-19? 200 OK 
+REQUEST Body: null
+RESPONSE: {"data": [[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 447.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]], "days": ["2019-03-05", "2019-03-06", "2019-03-07", "2019-03-08", "2019-03-09", "2019-03-10", "2019-03-11", "2019-03-12", "2019-03-13", "2019-03-14", "2019-03-15", "2019-03-16", "2019-03-17", "2019-03-18", "2019-03-19"]}
+[2019-Mar-19 09:30] 192.168.1.30 GET http /dashboard/api/endpoints_hits? 200 OK 
+REQUEST Body: null
+RESPONSE: [{"hits": 123, "name": "auth1.detection"}, {"hits": 109, "name": "auth1.get_bounding_box"}, {"hits": 102, "name": "auth1.change_parameters"}, {"hits": 100, "name": "auth1.disconnect"}, {"hits": 3, "name": "auth2.disconnect"}, {"hits": 2, "name": "auth2.get_bounding_box"}, {"hits": 2, "name": "auth3.get_bounding_box"}, {"hits": 2, "name": "auth3.disconnect"}, {"hits": 1, "name": "auth2.detection"}, {"hits": 1, "name": "auth3.detection"}, {"hits": 1, "name": "auth2.change_parameters"}, {"hits": 1, "name": "auth3.change_parameters"}]
+[2019-Mar-19 09:30] 192.168.1.30 GET http /dashboard/api/versions? 200 OK 
+REQUEST Body: null
+RESPONSE: [{"date": "Tue, 19 Mar 2019 02:17:07 GMT", "version": "1.0"}]
+[2019-Mar-19 09:30] 192.168.1.30 POST http /dashboard/api/multi_version? 200 OK 
+REQUEST Body: {"data": {"versions": ["1.0"], "endpoints": ["auth1.detection", "auth1.get_bounding_box", "auth1.change_parameters", "auth1.disconnect", "auth2.disconnect", "auth2.get_bounding_box", "auth3.get_bounding_box", "auth3.disconnect", "auth2.detection", "auth3.detection"]}}
+RESPONSE: [[27.516778523489933], [24.384787472035793], [22.818791946308725], [22.371364653243848], [0.6711409395973155], [0.44742729306487694], [0.44742729306487694], [0.44742729306487694], [0.22371364653243847], [0.22371364653243847]]
+[2019-Mar-19 09:30] 192.168.1.30 GET http /dashboard/multi_version? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:30] 192.168.1.30 GET http /dashboard/api/custom_graphs? 200 OK 
+REQUEST Body: null
+RESPONSE: []
+[2019-Mar-19 09:30] 192.168.1.30 GET http /dashboard/api/versions? 200 OK 
+REQUEST Body: null
+RESPONSE: [{"date": "Tue, 19 Mar 2019 02:17:07 GMT", "version": "1.0"}]
+[2019-Mar-19 09:30] 192.168.1.30 GET http /dashboard/api/endpoints_hits? 200 OK 
+REQUEST Body: null
+RESPONSE: [{"hits": 123, "name": "auth1.detection"}, {"hits": 109, "name": "auth1.get_bounding_box"}, {"hits": 102, "name": "auth1.change_parameters"}, {"hits": 100, "name": "auth1.disconnect"}, {"hits": 3, "name": "auth2.disconnect"}, {"hits": 2, "name": "auth2.get_bounding_box"}, {"hits": 2, "name": "auth3.get_bounding_box"}, {"hits": 2, "name": "auth3.disconnect"}, {"hits": 1, "name": "auth2.detection"}, {"hits": 1, "name": "auth3.detection"}, {"hits": 1, "name": "auth2.change_parameters"}, {"hits": 1, "name": "auth3.change_parameters"}]
+[2019-Mar-19 09:30] 192.168.1.30 GET http /dashboard/static/img/favicon.ico? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:30] 192.168.1.30 POST http /dashboard/api/multi_version? 200 OK 
+REQUEST Body: {"data": {"versions": ["1.0"], "endpoints": ["auth1.detection", "auth1.get_bounding_box", "auth1.change_parameters", "auth1.disconnect", "auth2.disconnect", "auth2.get_bounding_box", "auth3.get_bounding_box", "auth3.disconnect", "auth2.detection", "auth3.detection"]}}
+RESPONSE: [[27.516778523489933], [24.384787472035793], [22.818791946308725], [22.371364653243848], [0.6711409395973155], [0.44742729306487694], [0.44742729306487694], [0.44742729306487694], [0.22371364653243847], [0.22371364653243847]]
+[2019-Mar-19 09:30] 192.168.1.30 POST http /api/v1.0/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:30] 192.168.1.30 POST http /api/v1.0/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v1"}
+[2019-Mar-19 09:30] 192.168.1.30 GET http /dashboard/multi_version? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:30] 192.168.1.30 GET http /dashboard/api/custom_graphs? 200 OK 
+REQUEST Body: null
+RESPONSE: []
+[2019-Mar-19 09:30] 192.168.1.30 GET http /dashboard/api/versions? 200 OK 
+REQUEST Body: null
+RESPONSE: [{"date": "Tue, 19 Mar 2019 02:17:07 GMT", "version": "1.0"}]
+[2019-Mar-19 09:30] 192.168.1.30 GET http /dashboard/api/endpoints_hits? 200 OK 
+REQUEST Body: null
+RESPONSE: [{"hits": 123, "name": "auth1.detection"}, {"hits": 109, "name": "auth1.get_bounding_box"}, {"hits": 102, "name": "auth1.change_parameters"}, {"hits": 100, "name": "auth1.disconnect"}, {"hits": 3, "name": "auth2.disconnect"}, {"hits": 2, "name": "auth2.get_bounding_box"}, {"hits": 2, "name": "auth3.get_bounding_box"}, {"hits": 2, "name": "auth3.disconnect"}, {"hits": 2, "name": "v1.0.detection"}, {"hits": 1, "name": "auth2.detection"}, {"hits": 1, "name": "auth3.detection"}, {"hits": 1, "name": "auth2.change_parameters"}, {"hits": 1, "name": "auth3.change_parameters"}]
+[2019-Mar-19 09:30] 192.168.1.30 GET http /dashboard/static/img/favicon.ico? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:30] 192.168.1.30 POST http /dashboard/api/multi_version? 200 OK 
+REQUEST Body: {"data": {"versions": ["1.0"], "endpoints": ["auth1.detection", "auth1.get_bounding_box", "auth1.change_parameters", "auth1.disconnect", "auth2.disconnect", "auth2.get_bounding_box", "auth3.get_bounding_box", "auth3.disconnect", "v1.0.detection", "auth2.detection"]}}
+RESPONSE: [[27.394209354120267], [24.276169265033406], [22.71714922048998], [22.271714922048996], [0.6681514476614699], [0.44543429844098], [0.44543429844098], [0.44543429844098], [0.44543429844098], [0.22271714922049]]
+[2019-Mar-19 09:30] 192.168.1.30 POST http /api/v3.0/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v3"}
+[2019-Mar-19 09:30] 192.168.1.30 GET http /dashboard/multi_version? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:30] 192.168.1.30 GET http /dashboard/api/custom_graphs? 200 OK 
+REQUEST Body: null
+RESPONSE: []
+[2019-Mar-19 09:30] 192.168.1.30 GET http /dashboard/api/endpoints_hits? 200 OK 
+REQUEST Body: null
+RESPONSE: [{"hits": 123, "name": "auth1.detection"}, {"hits": 109, "name": "auth1.get_bounding_box"}, {"hits": 102, "name": "auth1.change_parameters"}, {"hits": 100, "name": "auth1.disconnect"}, {"hits": 3, "name": "auth2.disconnect"}, {"hits": 2, "name": "auth2.get_bounding_box"}, {"hits": 2, "name": "auth3.get_bounding_box"}, {"hits": 2, "name": "auth3.disconnect"}, {"hits": 2, "name": "v1.0.detection"}, {"hits": 1, "name": "auth2.detection"}, {"hits": 1, "name": "auth3.detection"}, {"hits": 1, "name": "auth2.change_parameters"}, {"hits": 1, "name": "auth3.change_parameters"}, {"hits": 1, "name": "v3.0.detection"}]
+[2019-Mar-19 09:30] 192.168.1.30 GET http /dashboard/api/versions? 200 OK 
+REQUEST Body: null
+RESPONSE: [{"date": "Tue, 19 Mar 2019 02:17:07 GMT", "version": "1.0"}]
+[2019-Mar-19 09:30] 192.168.1.30 POST http /dashboard/api/multi_version? 200 OK 
+REQUEST Body: {"data": {"versions": ["1.0"], "endpoints": ["auth1.detection", "auth1.get_bounding_box", "auth1.change_parameters", "auth1.disconnect", "auth2.disconnect", "auth2.get_bounding_box", "auth3.get_bounding_box", "auth3.disconnect", "v1.0.detection", "auth2.detection"]}}
+RESPONSE: [[27.333333333333332], [24.22222222222222], [22.666666666666668], [22.22222222222222], [0.6666666666666666], [0.4444444444444444], [0.4444444444444444], [0.4444444444444444], [0.4444444444444444], [0.2222222222222222]]
+[2019-Mar-19 09:30] 192.168.1.30 GET http /dashboard/static/img/favicon.ico? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:30] 192.168.1.30 GET http /dashboard/multi_version? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:30] 192.168.1.30 GET http /dashboard/api/custom_graphs? 200 OK 
+REQUEST Body: null
+RESPONSE: []
+[2019-Mar-19 09:30] 192.168.1.30 GET http /dashboard/api/versions? 200 OK 
+REQUEST Body: null
+RESPONSE: [{"date": "Tue, 19 Mar 2019 02:17:07 GMT", "version": "1.0"}]
+[2019-Mar-19 09:30] 192.168.1.30 GET http /dashboard/api/endpoints_hits? 200 OK 
+REQUEST Body: null
+RESPONSE: [{"hits": 123, "name": "auth1.detection"}, {"hits": 109, "name": "auth1.get_bounding_box"}, {"hits": 102, "name": "auth1.change_parameters"}, {"hits": 100, "name": "auth1.disconnect"}, {"hits": 3, "name": "auth2.disconnect"}, {"hits": 2, "name": "auth2.get_bounding_box"}, {"hits": 2, "name": "auth3.get_bounding_box"}, {"hits": 2, "name": "auth3.disconnect"}, {"hits": 2, "name": "v1.0.detection"}, {"hits": 1, "name": "auth2.detection"}, {"hits": 1, "name": "auth3.detection"}, {"hits": 1, "name": "auth2.change_parameters"}, {"hits": 1, "name": "auth3.change_parameters"}, {"hits": 1, "name": "v3.0.detection"}]
+[2019-Mar-19 09:30] 192.168.1.30 GET http /dashboard/static/img/favicon.ico? 200 OK 
+REQUEST Body: null
+RESPONSE: null
+[2019-Mar-19 09:30] 192.168.1.30 POST http /dashboard/api/multi_version? 200 OK 
+REQUEST Body: {"data": {"versions": ["1.0"], "endpoints": ["auth1.detection", "auth1.get_bounding_box", "auth1.change_parameters", "auth1.disconnect", "auth2.disconnect", "auth2.get_bounding_box", "auth3.get_bounding_box", "auth3.disconnect", "v1.0.detection", "auth2.detection"]}}
+RESPONSE: [[27.333333333333332], [24.22222222222222], [22.666666666666668], [22.22222222222222], [0.6666666666666666], [0.4444444444444444], [0.4444444444444444], [0.4444444444444444], [0.4444444444444444], [0.2222222222222222]]
+[2019-Mar-19 09:31] 192.168.1.30 POST http /api/v2.0/post? 200 OK 
+REQUEST Body: null
+RESPONSE: {"message": "POST Success", "status_code": 200, "version": "v2"}

@@ -1,0 +1,132 @@
+[2019-Mar-19 09:11] 192.168.1.30 GET http /? ERROR
+REQUEST Body: null
+TRACEBACK: Traceback (most recent call last):
+  File "C:\Users\BootAI\PycharmProjects\kaggle\venv\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\BootAI\PycharmProjects\kaggle\venv\lib\site-packages\flask\app.py", line 1791, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\BootAI\PycharmProjects\kaggle\venv\lib\site-packages\flask\app.py", line 1774, in raise_routing_exception
+    raise request.routing_exception
+  File "C:\Users\BootAI\PycharmProjects\kaggle\venv\lib\site-packages\flask\ctx.py", line 336, in match_request
+    self.url_adapter.match(return_rule=True)
+  File "C:\Users\BootAI\PycharmProjects\kaggle\venv\lib\site-packages\werkzeug\routing.py", line 1581, in match
+    raise NotFound()
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.
+
+[2019-Mar-19 09:11] 192.168.1.30 GET http /favicon.ico? ERROR
+REQUEST Body: null
+TRACEBACK: Traceback (most recent call last):
+  File "C:\Users\BootAI\PycharmProjects\kaggle\venv\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\BootAI\PycharmProjects\kaggle\venv\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\BootAI\PycharmProjects\kaggle\venv\lib\site-packages\flask\helpers.py", line 976, in send_static_file
+    cache_timeout=cache_timeout)
+  File "C:\Users\BootAI\PycharmProjects\kaggle\venv\lib\site-packages\flask\helpers.py", line 709, in send_from_directory
+    raise NotFound()
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.
+
+[2019-Mar-19 09:12] 192.168.1.30 GET http /dashboard/api/deploy_details? ERROR
+REQUEST Body: null
+TRACEBACK: Traceback (most recent call last):
+  File "C:\Users\BootAI\PycharmProjects\kaggle\venv\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\BootAI\PycharmProjects\kaggle\venv\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\BootAI\PycharmProjects\kaggle\venv\lib\site-packages\flask_monitoringdashboard\core\auth.py", line 39, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\BootAI\PycharmProjects\kaggle\venv\lib\site-packages\flask_monitoringdashboard\views\deployment.py", line 20, in deploy_details
+    details['first-request'] = to_local_datetime(datetime.datetime.fromtimestamp(details['first-request']))
+OSError: [Errno 22] Invalid argument
+
+[2019-Mar-19 09:12] 192.168.1.30 GET http /dashboard/api/deploy_details? ERROR
+REQUEST Body: null
+TRACEBACK: Traceback (most recent call last):
+  File "C:\Users\BootAI\PycharmProjects\kaggle\venv\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\BootAI\PycharmProjects\kaggle\venv\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\BootAI\PycharmProjects\kaggle\venv\lib\site-packages\flask_monitoringdashboard\core\auth.py", line 39, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\BootAI\PycharmProjects\kaggle\venv\lib\site-packages\flask_monitoringdashboard\views\deployment.py", line 20, in deploy_details
+    details['first-request'] = to_local_datetime(datetime.datetime.fromtimestamp(details['first-request']))
+OSError: [Errno 22] Invalid argument
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BootAI\PycharmProjects\kaggle\venv\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\BootAI\PycharmProjects\kaggle\venv\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\BootAI\PycharmProjects\kaggle\venv\lib\site-packages\flask\app.py", line 1719, in handle_user_exception
+    return handler(e)
+  File "C:\Users\BootAI\PycharmProjects\DEMO_TRAFFIC\app\app.py", line 88, in exceptions
+    if e.code == 405 or e.code == 404:
+AttributeError: 'OSError' object has no attribute 'code'
+
+[2019-Mar-19 09:13] 192.168.1.30 GET http /dashboard/api/deploy_details? ERROR
+REQUEST Body: null
+TRACEBACK: Traceback (most recent call last):
+  File "C:\Users\BootAI\PycharmProjects\kaggle\venv\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\BootAI\PycharmProjects\kaggle\venv\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\BootAI\PycharmProjects\kaggle\venv\lib\site-packages\flask_monitoringdashboard\core\auth.py", line 39, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\BootAI\PycharmProjects\kaggle\venv\lib\site-packages\flask_monitoringdashboard\views\deployment.py", line 20, in deploy_details
+    details['first-request'] = to_local_datetime(datetime.datetime.fromtimestamp(details['first-request']))
+OSError: [Errno 22] Invalid argument
+
+[2019-Mar-19 09:13] 192.168.1.30 GET http /dashboard/api/deploy_details? ERROR
+REQUEST Body: null
+TRACEBACK: Traceback (most recent call last):
+  File "C:\Users\BootAI\PycharmProjects\kaggle\venv\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\BootAI\PycharmProjects\kaggle\venv\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\BootAI\PycharmProjects\kaggle\venv\lib\site-packages\flask_monitoringdashboard\core\auth.py", line 39, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\BootAI\PycharmProjects\kaggle\venv\lib\site-packages\flask_monitoringdashboard\views\deployment.py", line 20, in deploy_details
+    details['first-request'] = to_local_datetime(datetime.datetime.fromtimestamp(details['first-request']))
+OSError: [Errno 22] Invalid argument
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BootAI\PycharmProjects\kaggle\venv\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\BootAI\PycharmProjects\kaggle\venv\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\BootAI\PycharmProjects\kaggle\venv\lib\site-packages\flask\app.py", line 1719, in handle_user_exception
+    return handler(e)
+  File "C:\Users\BootAI\PycharmProjects\DEMO_TRAFFIC\app\app.py", line 88, in exceptions
+    if e.code == 405 or e.code == 404:
+AttributeError: 'OSError' object has no attribute 'code'
+
+[2019-Mar-19 09:15] 192.168.1.30 GET http /post? ERROR
+REQUEST Body: null
+TRACEBACK: Traceback (most recent call last):
+  File "C:\Users\BootAI\PycharmProjects\kaggle\venv\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\BootAI\PycharmProjects\kaggle\venv\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\BootAI\PycharmProjects\kaggle\venv\lib\site-packages\flask\helpers.py", line 976, in send_static_file
+    cache_timeout=cache_timeout)
+  File "C:\Users\BootAI\PycharmProjects\kaggle\venv\lib\site-packages\flask\helpers.py", line 709, in send_from_directory
+    raise NotFound()
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.
+
+[2019-Mar-19 09:15] 192.168.1.30 GET http /api/v1/post? ERROR
+REQUEST Body: null
+TRACEBACK: Traceback (most recent call last):
+  File "C:\Users\BootAI\PycharmProjects\kaggle\venv\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\BootAI\PycharmProjects\kaggle\venv\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\BootAI\PycharmProjects\kaggle\venv\lib\site-packages\flask\helpers.py", line 976, in send_static_file
+    cache_timeout=cache_timeout)
+  File "C:\Users\BootAI\PycharmProjects\kaggle\venv\lib\site-packages\flask\helpers.py", line 709, in send_from_directory
+    raise NotFound()
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.
+
